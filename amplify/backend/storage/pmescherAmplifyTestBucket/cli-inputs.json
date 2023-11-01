@@ -1,0 +1,14 @@
+{
+  "resourceName": "pmescherAmplifyTestBucket",
+  "policyUUID": "8876f9c2",
+  "bucketName": "pmescher-amplify-test-bucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
